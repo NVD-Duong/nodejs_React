@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "nodejs React",
+  "main": "server.js",
+  "scripts": {
+    "test": "D Backend",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "React"
+  ],
+  "author": "Duong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
